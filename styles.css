@@ -29,7 +29,6 @@ h1 {
     font-family: "Patrick Hand", cursive;
     font-size: 1.5rem;
     text-align: center;
-
 }
 #myBtn {
     width: 10%;
@@ -51,6 +50,10 @@ h1 {
     border: 2px aqua solid;
     color: aqua;
     text-align: center;
+}
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 2px aqua solid;
 }
 footer {
     text-align: center;
